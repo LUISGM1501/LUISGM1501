@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Luis+Urbina+%7C+CS+Student+%40+TEC;Web+Dev+%C2%B7+Systems+Programming+%C2%B7+Compilers;Building+things+that+ship+and+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Luis+Urbina+%7C+Computer+Science+Engineer;Backend+%C2%B7+Cloud+%C2%B7+Systems+Programming;Building+things+that+ship+and+scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,8 +24,8 @@
 
 ### About
 
-Computer Science student at **Instituto Tecnológico de Costa Rica** (2023–2027).  
-I build production websites for real clients with React, write concurrent servers and distributed engines from scratch in Rust, and design compilers end-to-end. Currently tutoring Data Structures and Databases at TEC.
+Computer Science Engineer from **Instituto Tecnológico de Costa Rica** (2023–2026).  
+I build backend services in Python and GraphQL on Azure, production websites for real clients with React, write concurrent servers and distributed engines from scratch in Rust, and design compilers end-to-end.
 
 ---
 
@@ -43,6 +43,13 @@ I build production websites for real clients with React, write concurrent server
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -57,13 +64,15 @@ I build production websites for real clients with React, write concurrent server
 
 ### What I focus on
 
+> **Backend & Cloud** — Python services with GraphQL on Azure, infrastructure as code with Terraform, GitLab CI/CD pipelines.
+
 > **Web Development** — React, TypeScript, responsive design, CSS animations. Production sites deployed with Vercel for real clients.
 
 > **Systems Programming** — Concurrent HTTP servers, distributed Master-Worker engines, and thread pool schedulers built from scratch in Rust.
 
 > **Compiler Design** — Full compiler pipeline from DFA lexer to LL(1) parser, semantic analysis, and x86 code generation with custom runtime.
 
-> **Databases & Teaching** — PostgreSQL, MongoDB, relational modeling. Tutor for Data Structures and Databases at TEC.
+> **Databases & Teaching** — PostgreSQL, MongoDB, relational modeling. Tutored Data Structures and Databases at TEC.
 
 ---
 
